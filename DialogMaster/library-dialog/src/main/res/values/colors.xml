@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="dialog_color">#02b7ff</color>
+    <color name="transport">#00222222</color>
+    <color name="colorAccent_light">#10657b</color>
+
+    <color name="white">#ffffff</color>
+    <color name="light_white_1">#B4B3B3</color>
+    <color name="alertdialog_line">#02b7ff</color>
+    <color name="dialog_bg">#d1403d3d</color>
+    <color name="actionsheet_blue">#c0cbd7</color>
+    <color name="actionsheet_red">#02b7ff</color>
+    <color name="actionsheet_gray">#d1403d3d</color>
+    <color name="actionsheet_line">#ee686262</color>
+    <color name="actionsheet_press">#ee686262</color>
+    <color name="actionsheet_normal">#ea403d3d</color>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+
+
+    <dimen name="dp_0">0dp</dimen>
+    <dimen name="dp_0.5">0.5dp</dimen>
+
+    <dimen name="dp_10">10dp</dimen>
+
+</resources>
