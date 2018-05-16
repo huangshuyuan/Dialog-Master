@@ -15,7 +15,9 @@ Dialog 各种自定义黑色主题
 
 
 # 用法
+
 ## 加载框
+
 ```
  WaitDialog mWaitDialog = new WaitDialog(this);
         mWaitDialog.show();
@@ -23,6 +25,7 @@ Dialog 各种自定义黑色主题
 ```
 
 ## 弹框
+
 ```
  new AlertDialog(this).builder()
                 .setTitle("退出")
@@ -39,6 +42,7 @@ Dialog 各种自定义黑色主题
         }).show();
 ```
 ## 底部弹框
+
 ```
 new ActionSheetDialog(this)
                 .builder()
@@ -61,6 +65,7 @@ new ActionSheetDialog(this)
 ```
 
 ## 下载框
+
 
 ```
  ProgressDialog progressDialog = new ProgressDialog(this);
